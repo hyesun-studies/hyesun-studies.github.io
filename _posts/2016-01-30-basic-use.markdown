@@ -3,7 +3,7 @@ layout: post
 title:  "Basic Use: A Guide"
 date:   2016-01-30 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: building1.jpg
+thumbnail: 4.png
 categories: category2
 
 # Information for the author block
